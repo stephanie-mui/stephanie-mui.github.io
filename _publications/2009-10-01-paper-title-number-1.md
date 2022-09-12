@@ -1,10 +1,15 @@
 ---
-title: "On the Lp Aleksandrov problem for negative p"
-collection: Research
-permalink: /research/Lp-Aleksandrov-p-less-1
-date: 2022
-venue: Advances in Mathematics
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001870822003905'
-citation: 'S. Mui, On the Lp Aleksandrov Problem for negative p, Adv. Math, 408 (2022).'
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-We prove the existence of a solution to the Lp Aleksandrov problem or the case of given even measures and p ∈ (−1, 0). Furthermore, a sufficient measure concentration condition was provided for the case of p ≤ −1, again provided that the given measure is even.
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
