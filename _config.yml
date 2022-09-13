@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalie Frank"
+title                    : "Stephanie Mui"
 title_separator          : "-"
-name                     : &name "Natalie Frank"
-description              : &description "PhD student at Courant Institute"
+name                     : &name "Stephanie Mui"
+description              : &description "PhD Student at NYU Courant"
 url                      : https://stephanie-mui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stephanie-mui.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "stephssm/stephanie-mui.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Natalie Frank"
-  avatar           : "selfie_with_cactus.jpeg"
-  bio              : "I'm a PhD student at Courant Institute. I am interested in Monte Carlo methods and adversarial learning."
-  location         : New York, New York
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=dDfnYw4AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6-JIyi_09vLnegT_GL4bYx54IhxXPz8eTchQqorfvKwonT4n77KJJmdhTrVyYkdHEVTBFJDsOujuAaCldytbHBFr2dtfJQ9Znn8QaVBOU_tpgCRgo"
-  email            : "nf1066@nyu.edu"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,26 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : natalie-frank
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "natalie-frank-938403b0"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "natalie_s_frank"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  arvix            :
 
 
 # Reading Files
