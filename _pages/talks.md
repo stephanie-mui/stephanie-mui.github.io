@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -16,3 +16,10 @@ author_profile: true
 *$𝐶^{1}$ Isometric Embedding of a Flat Torus in 3D Euclidean Space and Visualization of the Nash-Kuiper Sphere*, Geometry Labs United Conference, ICERM, Lightning talk & poster. July 2020.
 
 *Isometric Embedding of a Flat Torus in 3D Euclidean space*, Undergraduate Mathematics Symposium, University of Illinois at Chicago, Talk. October 2016.
+
+
+# Upcoming Talks
+
+*On the $L^{p}$ dual Minkowski problem for $−1 < p < 0$*, Harmonic Analysis Methods in Geometric Tomography, ICERM Brown, Talk. Sep 2022.
+
+*Title TBD, AMS Southeastern Sectional Meeting: Special Session on High-dimensional Convexity and Probability, Georgia Tech, Talk. March 2023.
