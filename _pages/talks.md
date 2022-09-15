@@ -22,4 +22,4 @@ author_profile: true
 
 *On the $L^{p}$ dual Minkowski problem for $−1 < p < 0$*, Harmonic Analysis Methods in Geometric Tomography, ICERM Brown, Talk. Sep 2022.
 
-*Title TBD, AMS Southeastern Sectional Meeting: Special Session on High-dimensional Convexity and Probability, Georgia Tech, Talk. March 2023.
+*Title TBD*, AMS Southeastern Sectional Meeting: Special Session on High-dimensional Convexity and Probability, Georgia Tech, Talk. March 2023.
