@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-*On the $L^{p}$ dual Minkowski problem for $−1 < p < 0$*, Canadian Math Society Summer Meeting, Memorial University of Newfoundland, Talk. June 2022.
+*On the $L^{p}$ dual Minkowski problem for $−1 < p < 0$*, Canadian Math Society Summer Meeting: Session on Convex geometry and Partial Differential Equations, Memorial University of Newfoundland, Talk. June 2022.
 
 *On the $L^{p}$ Aleksandrov Problem for negative $p$*, Workshop in Convexity and High-dimensional probability, Georgia Tech, Short talk. May 2022. 
 
