@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://raw.githubusercontent.com/stephanie-mui/stephanie-mui.github.io/master/files/stephaniemui_cv.pdf)
+You can download my CV [here](https://raw.githubusercontent.com/stephanie-mui/stephanie-mui.github.io/master/files/stephaniemui_cv.pdf).
