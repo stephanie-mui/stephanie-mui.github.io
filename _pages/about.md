@@ -13,5 +13,5 @@ redirect_from:
 </head>
 
 
-I am a mathematics PhD student at NYU Courant, studying under my advisors Deane Yang and Gaoyong Zhang.   I am currently researching in convex geometry, specifically working on Minkowski problems and geometric inequalities.  Previously at GMU, I worked on constructing Nash-Kuiper 3D surfaces with my undergraduate mentor/ master's degree advisor Sean Lawton.
+I am a mathematics PhD student at NYU Courant, studying under my advisors Deane Yang and Gaoyong Zhang.   I am currently researching in convex geometry, geometric analysis, and nonlinear partial differential equations (Monge-Ampere type), specifically working on Minkowski problems and geometric inequalities.  Previously at GMU, I worked on constructing Nash-Kuiper 3D surfaces with my undergraduate mentor/ master's degree advisor Sean Lawton.
 
