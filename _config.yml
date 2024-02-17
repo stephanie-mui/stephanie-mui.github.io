@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stephanie Mui"
 title_separator          : "-"
 name                     : &name "Stephanie Mui"
-description              : &description "PhD student at NYU Courant"
+description              : &description "Hale Visiting Assistant Professor at Georgia Tech"
 url                      : https://stephanie-mui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stephanie-mui/stephanie-mui.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Stephanie Mui"
   avatar           : "profile_1.jpg"
-  bio              : "Hi! I am a mathematics PhD student at NYU Courant, studying convex geometry."
-  location         : New York, New York
+  bio              : "Hi! I am a Hale Visiting Assistant Professor at Georgia Tech, researching in convex geometry."
+  location         : Atlanta, GA
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "stephanie.s.mui@nyu.edu"
+  email            : "smui3@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
