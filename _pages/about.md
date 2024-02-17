@@ -3,13 +3,13 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-keywords: "Stephanie Mui NYU Mathematics Courant"
+keywords: "Stephanie Mui Mathematics NYU Courant Georgia Institute of Technology Hale Visiting Assistant Professor"
 redirect_from: 
   - /about/
   - /about.html
 ---
 <head>
-   <meta name="keywords" content="Stephanie Mui Mathematics NYU Courant">
+   <meta name="keywords" content="Stephanie Mui Mathematics NYU Courant Georgia Institute of Technology Hale Visiting Assistant Professor">
 </head>
 
 
