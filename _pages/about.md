@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-keywords: "Stephanie Mui Mathematics NYU Courant Georgia Institute of Technology Hale Visiting Assistant Professor"
+keywords: "Stephanie Mui Mathematics NYU Courant Georgia Institute of Technology Hale Visiting Assistant Professor NSF Postdoctoral Fellow"
 redirect_from: 
   - /about/
   - /about.html
