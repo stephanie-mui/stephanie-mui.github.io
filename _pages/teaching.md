@@ -11,6 +11,17 @@ h2, h3, h4, h5, h6 {margin: 0;}
 </style>
 
 {% include base_path %}
+
+### Instructor for Linear Algebra (Georgia Tech) (MATH 1554)
+#### Fall 2026
+
+### Instructor for Probability Theory (Georgia Tech) (MATH 3235)
+#### Spring 2024
+
+### Instructor for Finite Mathematics (Georgia Tech) (MATH 1711)
+#### Fall 2023
+<br/>
+
 ### TA for Analysis (NYU) (MATH-UA.0325)
 #### Spring 2021, Fall 2021, Fall 2022
 <br/>
